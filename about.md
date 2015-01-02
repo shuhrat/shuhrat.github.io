@@ -1,11 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Shuhrat Shadmonkulov.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Work as a web developer at [Yandex][yandex]. Currently live in Moscow, Russia.
+Interested in CS and in programming languages as well as natural languages.
+Love to learn cultures, and watch science fiction films.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+And I'm a co-founder of [Seniore][seniore], we sew incredibly beautiful bow-ties.
+
+
+[yandex]: http://yandex.ru
+[seniore]: http://seniore.ru
