@@ -1,4 +1,3 @@
-shuhrat.github.io
-=================
+## shuhrat.github.io
 
 Personal blog

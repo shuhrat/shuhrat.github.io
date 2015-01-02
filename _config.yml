@@ -1,17 +1,33 @@
 # Site settings
-title: Your awesome title
+title: Sky is the limit
+about: Web developer at Yandex, runner
 email: zumra6a@yandex.ru
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://shuhrat.github.io" # the base hostname & protocol for your site
-twitter_username: zumra6a
-github_username:  shuhrat
+description: >
+  This is systematized archive of my thoughts.
+  Don't be scared if you find posts in Russian or in Turkish.
+  Please feel free to correct my mistakes.
+
+baseurl: ""
+url: "http://shuhrat.github.io"
 
 # Build settings
 markdown: kramdown
 
 #gh-pages
 highlighter: pygments
+
+# Contacts
+contacts:
+  twitter: zumra6a
+  instagram: zumra6a
+  github:  shuhrat
+
+metrics:
+  yandex: >
+    <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    try { var yaCounter27416267 = new Ya.Metrika({id:27416267,
+              webvisor:true});
+    } catch(e) { }
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/27416267" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
