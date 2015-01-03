@@ -3,7 +3,7 @@ layout: post
 title:  "Hello world!"
 date:   2015-01-02 23:59:01
 comments: true
-categories: post plans greetings
+categories: post
 ---
 
 Hi!
