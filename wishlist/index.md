@@ -5,7 +5,7 @@ title: Wishlist
 
 - Bluetooth наушники для бега [Sony SBH80][sony];
 - Фотобокс со встроенным осветителем;
-- Браслет-шагомер: [Fitbit Flex][fitbit];
+- Браслет-шагомер [Fitbit Flex][fitbit];
 - Хорошая электронная книга;
 - Часы [White Classic Havok Watch][watch];
 - Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];
