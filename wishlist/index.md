@@ -10,7 +10,7 @@ title: Wishlist
 - Часы [White Classic Havok Watch][watch];
 - Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];
 - Записная книжка [Moleskine][moleskine];
-- Складной нож [Paraframe-I][knife];
+- Складной нож Gerbergear [Paraframe-I][knife];
 
 [fitbit]: http://market.yandex.ru/model.xml?modelid=10802171&hid=10498025
 [sony]: http://market.yandex.ru/model.xml?modelid=10760046&hid=418706
