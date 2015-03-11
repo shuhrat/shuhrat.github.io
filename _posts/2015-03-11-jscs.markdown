@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "JSCS: JavaScript Code Style"
+date:   2015-03-11 22:10:00
+comments: true
+categories: post
+---
+
+Ekibinizde 3’ten fazla eleman varsa er yada geç program kodunuzun aynı stilde yazılmasına dikkat çekersiniz. Belkide herkesle oturur konuşur, genel bir kod stili,
+formati hazırlar ve internetinizdeki wiki sayfaya yazarsınız. Vakit geçtikçe yazınız eskirir, dosya büyüklüğünden kimse okumaz yada unutulur.
+
+Hayal edin, sabahtan akşama kadar çok güzel algoritmalar kullanarak program yazmışsınız, program güzelmi güzel. Pull request gönderdiniz.
+Code review için çağirdiğiniz mesai arkadaşiniz derki `function` ve `(` arasında boşluk gerekiyormuşte, orda parantez konulmazmişta, falan filan.
+Ve böyle bir kaç yerde. Eğer ikiden fazla insan katılırsa bahısınız kutsal savaşagit dönüşür. İki üç kod stillinden dolayi tüm keyif kaçar.
+
+Biz yukarıda dile getirdiğimiz problemi çözdük. Ortaya açik kaynakli bir program çikti.
+Benim gibi günlük JavaScript/Node.js kullanıyorsanız belki size de faydası dokunur diye bu yazıyı yazmaya karar verdim.
+
+Bayanlar ve Baylar, işte [JSCS][jscs] (JavaScript Code Style) geliyor.
+
+Kod stilini kontrol etmek için projenizin köküne `.jscs.json` adlı bir konfigürasyon dosyasi yeterlidir. Bu dosya takip edilmesi gereken stil kurallarını içerir.
+
+### Kurulumu
+
+`npm install jscs -g`
+
+### Kullanımı
+
+Kendi isteğinize göre konfigürasyon dosyası oluşturabilirsiniz, yada önceden ayarlanmiş konfigürasyon dosyalarını kullanabilirsiniz.
+Önceden ayarlanmiş dosyalarda jQuery, google, airbnb yada yandex’te kullanılan kod stil kuralları yer alır.
+
+`jscs path/to/my/script.js`
+
+Mesela, önceden hazırlanmış stilleri kullanmak istiyorsaniz
+
+`jscs path/to/my/script.js --preset=yandex`
+
+![image](/assets/jscs.png)
+
+
+Daha avantajlı kullanmak için `Git`in `pre-commit` hook’unda da [katabilirsiniz][jscs-pre-commit].
+Grunt için’de [npm paketi][grunt-jscs] mevcuttur.
+
+
+[jscs]: http://jscs.info/
+[grunt-jscs]: https://www.npmjs.com/package/grunt-jscs
+[jscs-pre-commit]: https://github.com/flightjs/flight/blob/master/jscs-pre-commit
