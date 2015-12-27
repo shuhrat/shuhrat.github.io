@@ -97,9 +97,9 @@ if [[ -n "$BINARY_FILES" ]]; then
 fi
 ```
 
-But you cannot not commit changes in your .git folder, for that purposes we use small, but powerfull 
-project [git-hooks-js](git-hooks-js). Simply, you can save hook to `.githooks/pre-commit/git-lfs.sh`, and 
-provide it to other team members, for more information see [documentation](git-hooks-js-doc)
+But you can't commit changes in .git folder, for that purposes we use small, but powerfull 
+manager [git-hooks-js](git-hooks-js). Simply, you can save hook to `.githooks/pre-commit/git-lfs.sh`, and 
+provide it to team members, for more information see [documentation](git-hooks-js-doc)
 
 And remember, your friends are
 
