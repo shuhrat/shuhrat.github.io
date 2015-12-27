@@ -14,7 +14,7 @@ timezone: Europe/Moscow
 # Conversion
 markdown: redcarpet
 highlighter: pygments
-markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown_ext: markdown,md
 redcarpet:
   extensions:
   - tables
