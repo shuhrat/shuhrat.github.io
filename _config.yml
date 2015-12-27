@@ -52,4 +52,3 @@ defaults:
       layout: "post"
       comments: true
       categories: "post"
-      permalink: "/posts/:title.html"
