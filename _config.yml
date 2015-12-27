@@ -9,12 +9,19 @@ description: >
 
 baseurl: ""
 url: "http://shuhrat.github.io"
+timezone: Europe/Moscow
 
-# Build settings
+# Conversion
 markdown: kramdown
-
-#gh-pages
 highlighter: pygments
+kramdown:
+  input: GFM
+encoding: UTF-8
+
+# Outputting
+paginate: 6
+permalink: "/:categories/:title.html"
+paginate_path: "/page/:num"
 
 # Contacts
 contacts:
@@ -27,3 +34,14 @@ metrika:
   webvisor: true
   clickmap: true
   trackLinks: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      categories: "post"
+      permalink: "/posts/:title.html"

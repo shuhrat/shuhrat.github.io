@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Убей в себе зомби за 40 дней"
-date:   2015-01-03 17:36:01
-comments: true
 categories: productivity
 ---
 

@@ -1,9 +1,5 @@
 ---
-layout: post
 title:  "JSCS: JavaScript Code Style"
-date:   2015-03-11 22:10:00
-comments: true
-categories: post
 ---
 
 Ekibinizde 3’ten fazla eleman varsa er yada geç program kodunuzun aynı stilde yazılmasına dikkat çekersiniz. Belkide herkesle oturur konuşur, genel bir kod stili,
