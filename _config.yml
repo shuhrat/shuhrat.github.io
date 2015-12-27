@@ -12,10 +12,18 @@ url: "http://shuhrat.github.io"
 timezone: Europe/Moscow
 
 # Conversion
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
-kramdown:
-  input: GFM
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+redcarpet:
+  extensions:
+  - tables
+  - autolink
+  - strikethrough
+  - space_after_headers
+  - with_toc_data
+  - fenced_code_blocks
+
 encoding: UTF-8
 
 # Outputting

@@ -3,7 +3,7 @@ layout: page
 title: Wishlist
 ---
 
-- <del>Bluetooth наушники для бега [Sony SBH80][sony];<del>
+- ~~Bluetooth наушники для бега [Sony SBH80][sony];~~
 - Фотобокс со встроенным осветителем;
 - Браслет-шагомер [Fitbit Flex][fitbit];
 - Хорошая электронная книга;
