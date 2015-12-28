@@ -7,9 +7,9 @@ A couple of weeks ago we started to use Github's [Large File Storage](git-lfs) e
 I want to share some tips and tricks with you.
 
 
-#### 1. Get rid of `git lfs init`
+#### 1. Get rid of `git lfs install`
 
-`git lfs init` does actually two things:
+`git lfs install` does actually two things:
 
 1. Adds pre-push hook to the repository, which prevents you to push if LFS client is not installed
 2. Adds some configurations to rpository/.git/.gitconfig
@@ -22,7 +22,7 @@ git config --global filter.lfs.clean "git-lfs clean %f"
 git config --global filter.lfs.smudge "git-lfs smudge %f"
 ```
 
-It will save you from having to initialize LFS (`git lfs init`) every time after you clone repository.
+It will save you from having to initialize LFS every time after you clone repository.
 
 
 #### 2. Credentials
@@ -62,7 +62,7 @@ You could commit binary file and install LFS client just before pushing.
 As a workaround, you can:
 
 1. Revert commit with binary file
-2. Remov LFS client configurations from `.gitconfig`, can be checked easily by `git lfs env`
+2. Remove LFS client configurations from `.gitconfig`, can be checked easily by `git lfs env`
 3. Rebase
 4. Turn back configurations to `.gitconfig`
 
