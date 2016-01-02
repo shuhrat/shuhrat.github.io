@@ -3,7 +3,7 @@ title: "Git LFS tips and tricks"
 categories: programming
 ---
 
-A couple of weeks ago we started to use Github's [Large File Storage](git-lfs) extension for git. That was a really challange, now 
+A couple of weeks ago we started to use Github's [Large File Storage][git-lfs] extension for git. That was a really challenge, now 
 I want to share some tips and tricks with you.
 
 
@@ -12,7 +12,7 @@ I want to share some tips and tricks with you.
 `git lfs install` does actually two things:
 
 1. Adds pre-push hook to the repository, which prevents you to push if LFS client is not installed
-2. Adds some configurations to rpository/.git/.gitconfig
+2. Adds some configurations to `<repository>/.git/.gitconfig`
 
 Add LFS client's configurations to your global `$HOME/.gitconfig`.
 
@@ -27,7 +27,7 @@ It will save you from having to initialize LFS every time after you clone reposi
 
 #### 2. Credentials
 
-Change your remotes' protocols to `ssh`, so you will not need to use git's [credential-cache](credential-cache).
+Change your remotes' protocols to `ssh`, so you will not need to use git's [credential-cache][credential-cache].
 Otherwise, you have to type login and password for every file you download from GH media server.
 
 
@@ -54,7 +54,7 @@ git lfs checkout # changes objects to binary files
 #### 4. Commited binary file, can not rebase, checkout or hard reset
 
 You have a trouble if anyone commits binary file and pushes to remote. Anyone who rebased 
-from remote now have that file on stage, file cannot be removed, reseted.
+from remote now have that file on stage, file cannot be removed or resetted.
 
 Pre-push hook provided by Github will not save you. It checks if LFS client is installed or not, nothing less nothing more.
 You could commit binary file and install LFS client just before pushing.
@@ -97,9 +97,9 @@ if [[ -n "$BINARY_FILES" ]]; then
 fi
 ```
 
-But you can't commit changes in .git folder, for that purposes we use small, but powerfull 
-manager [git-hooks-js](git-hooks-js). Simply, you can save hook to `.githooks/pre-commit/git-lfs.sh`, and 
-provide it to team members, for more information see [documentation](git-hooks-js-doc)
+But you can't commit changes in .git folder, for that purposes we use small, but powerful 
+manager [git-hooks-js][git-hooks-js]. Simply, you can save hook to `.githooks/pre-commit/git-lfs.sh`, and 
+provide it to team members, for more information see [documentation][git-hooks-js-doc].
 
 And remember, your friends are
 
