@@ -3,18 +3,17 @@ title: "Git LFS tips and tricks"
 categories: programming
 ---
 
-A couple of weeks ago we started to use Github's [Large File Storage][git-lfs] extension for git. That was a really challenge, now 
-I want to share some tips and tricks with you.
+A couple of weeks ago we started to use Github's [Large File Storage][git-lfs] extension for git. That was a real challenge and now I want to share some tips and tricks with you.
 
 
 #### 1. Get rid of `git lfs install`
 
 `git lfs install` does actually two things:
 
-1. Adds pre-push hook to the repository, which prevents you to push if LFS client is not installed
+1. Adds pre-push hook to the repository, preventing you from pushing when LFS client is not installed
 2. Adds some configurations to `<repository>/.git/.gitconfig`
 
-Add LFS client's configurations to your global `$HOME/.gitconfig`.
+Add LFS client's configurations to your global `$HOME/.gitconfig`:
 
 ```bash
 git config --global filter.lfs.required true
@@ -22,28 +21,28 @@ git config --global filter.lfs.clean "git-lfs clean %f"
 git config --global filter.lfs.smudge "git-lfs smudge %f"
 ```
 
-It will save you from having to initialize LFS every time after you clone repository.
+You won't have to initialize LFS every time you clone a repository.
 
 
 #### 2. Credentials
 
 Change your remotes' protocols to `ssh`, so you will not need to use git's [credential-cache][credential-cache].
-Otherwise, you have to type login and password for every file you download from GH media server.
+Otherwise, you have to type login and password for every file you download from the GH media server.
 
 
 #### 3. It takes long time to fetch
 
-LFS has batch mode to download files from server. But it does not work on clone and checkout due to limitation of git's smudge filters.
+LFS has the batch mode for downloading files from a server. But it does not work on clone and checkout due to limitation of git's smudge filters.
 You can skip LFS's smudge filter and fetch LFS objects on demand. For that:
 
-##### 1. Change smudge filter configuration.
+1\. Change the smudge filter configuration:
 
 ```bash
 git config --global filter.lfs.smudge "git-lfs smudge --skip %f"
 ```
- Run `git lfs env` and be sure that smudge filter is skipped.
+ Run `git lfs env` and be sure that the smudge filter is skipped.
 
-##### 2. Fetch LFS objects after checkout or clone 
+2\. Fetch LFS objects after checkout or clone:
  
 ```bash
 git lfs fetch # downloads objects with batch mode
@@ -53,20 +52,20 @@ git lfs checkout # changes objects to binary files
 
 #### 4. Commited binary file, can not rebase, checkout or hard reset
 
-You have a trouble if anyone commits binary file and pushes to remote. Anyone who rebased 
-from remote now have that file on stage, file cannot be removed or resetted.
+You've got a trouble if someone commits binary file and pushes it to remote. After rebase from remote everybody 
+will have that file on stage, it cannot be removed or resetted.
 
-Pre-push hook provided by Github will not save you. It checks if LFS client is installed or not, nothing less nothing more.
-You could commit binary file and install LFS client just before pushing.
+Pre-push hook provided by Github will not save you. It will check whether LFS client is installed or not, exactly that.
+You could commit a binary file and install LFS client just before pushing.
 
 As a workaround, you can:
 
 1. Revert commit with binary file
-2. Remove LFS client configurations from `.gitconfig`, can be checked easily by `git lfs env`
+2. Remove LFS client configurations from `.gitconfig`. It can be checked easily by `git lfs env`
 3. Rebase
-4. Turn back configurations to `.gitconfig`
+4. Get configurations back to `.gitconfig`
 
-Such solution won't prevent problem from repeating in future. So, we wrote a pre-commit hook.
+Since that solution won't prevent this problem in the future we wrote a pre-commit hook:
 
 ```bash
 #!/usr/bin/env bash
@@ -97,11 +96,11 @@ if [[ -n "$BINARY_FILES" ]]; then
 fi
 ```
 
-But you can't commit changes in .git folder, for that purposes we use small, but powerful 
-manager [git-hooks-js][git-hooks-js]. Simply, you can save hook to `.githooks/pre-commit/git-lfs.sh`, and 
-provide it to team members, for more information see [documentation][git-hooks-js-doc].
+But you can't commit changes in the .git folder, for that purpose we use small, but powerful 
+manager [git-hooks-js][git-hooks-js]. Simply, you can save a hook to `.githooks/pre-commit/git-lfs.sh`, and 
+provide it to team members. For more information see [documentation][git-hooks-js-doc].
 
-And remember, your friends are
+And remember, your friends are:
 
 ```bash
 git lfs env
