@@ -52,3 +52,10 @@ defaults:
       layout: "post"
       comments: true
       categories: "post"
+
+gems:
+  - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
