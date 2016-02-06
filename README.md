@@ -1,3 +1,1 @@
-## shuhrat.github.io
-
-Personal blog
+## Personal [blog](https://shuhrat.github.io)
