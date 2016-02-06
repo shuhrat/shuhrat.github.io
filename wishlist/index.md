@@ -9,8 +9,9 @@ title: Wishlist
 - Хорошая электронная книга;
 - Часы [White Classic Havok Watch][watch];
 - Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];
-- Записная книжка [Moleskine][moleskine];
+- ~~Записная книжка [Moleskine][moleskine];~~
 - Складной нож Gerbergear [Paraframe-I][knife];
+- Складной нож Kershaw [Injection 3.5][knife2];
 
 [fitbit]: http://market.yandex.ru/model.xml?modelid=10802171&hid=10498025
 [sony]: http://market.yandex.ru/model.xml?modelid=10760046&hid=418706
@@ -18,3 +19,4 @@ title: Wishlist
 [bag]: http://www.re-store.ru/accessories/bags/ally-capellino/5060167430329/
 [moleskine]: http://www.moleskines-shop.ru/collection/Moleskine-Classic/product/Moleskine-Large-Ruled-Notebook
 [knife]: http://ru.gerbergear.com/Essentials/Knives/Paraframe-I-knife_22-48444
+[knife2]: http://kershaw.kaiusaltd.com/knives/knife/injection-3.5
