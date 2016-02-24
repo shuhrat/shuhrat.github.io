@@ -8,10 +8,13 @@ title: Wishlist
 - Браслет-шагомер [Fitbit Flex][fitbit];
 - Хорошая электронная книга;
 - Часы [White Classic Havok Watch][watch];
-- Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];
+- ~~Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];~~
 - ~~Записная книжка [Moleskine][moleskine];~~
 - Складной нож Gerbergear [Paraframe-I][knife];
 - Складной нож Kershaw [Injection 3.5][knife2];
+- Футболка от Гитхаба [Arctocat][arctocat]
+- [Октокотик][octocat] от Гитхаба 
+
 
 [fitbit]: http://market.yandex.ru/model.xml?modelid=10802171&hid=10498025
 [sony]: http://market.yandex.ru/model.xml?modelid=10760046&hid=418706
@@ -20,3 +23,5 @@ title: Wishlist
 [moleskine]: http://www.moleskines-shop.ru/collection/Moleskine-Classic/product/Moleskine-Large-Ruled-Notebook
 [knife]: http://ru.gerbergear.com/Essentials/Knives/Paraframe-I-knife_22-48444
 [knife2]: http://kershaw.kaiusaltd.com/knives/knife/injection-3.5
+[arctocat]: https://github.myshopify.com/products/arctocat
+[octocat]: https://github.myshopify.com/products/octocat-figurine
