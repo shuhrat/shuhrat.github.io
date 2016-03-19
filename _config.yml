@@ -12,17 +12,13 @@ url: "http://shuhrat.github.io"
 timezone: Europe/Moscow
 
 # Conversion
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 markdown_ext: markdown,md
-redcarpet:
-  extensions:
-  - tables
-  - autolink
-  - strikethrough
-  - space_after_headers
-  - with_toc_data
-  - fenced_code_blocks
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+highlighter: rouge
 
 encoding: UTF-8
 
@@ -54,7 +50,9 @@ defaults:
 
 gems:
   - jemoji
+  - jekyll-gist
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-mentions
+  - jekyll-paginate
   - jekyll-redirect-from
