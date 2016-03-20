@@ -56,7 +56,7 @@ title: Вишлист
 [bag]: http://www.re-store.ru/accessories/bags/ally-capellino/5060167430329/
 [moleskine]: http://www.moleskines-shop.ru/collection/Moleskine-Classic/product/Moleskine-Large-Ruled-Notebook
 [knife]: http://ru.gerbergear.com/Essentials/Knives/Paraframe-I-knife_22-48444
-[knife2]: http://kershaw.kaiusaltd.com/knives/knife/injection-3.5
+[knife2]: https://kershaw.kaiusaltd.com/knives/knife/injection-3.5
 [arctocat]: https://github.myshopify.com/products/arctocat
 [octocat]: https://github.myshopify.com/products/octocat-figurine
 [sennheiser]: https://market.yandex.ru/product/4768680
