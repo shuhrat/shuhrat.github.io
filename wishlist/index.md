@@ -15,7 +15,7 @@ title: Вишлист
 - ~~Сумка для MacBook Air 11" [Ally Capellino AO Canvas Satchel][bag];~~
 - ~~Записная книжка [Moleskine][moleskine];~~
 - ~~Наушники [Sennheiser HD 380 Pro][sennheiser];~~
-- Элетрокнига [Amazon Kindle 6][kindle];
+- ~~Элетрокнига [Amazon Kindle 6][kindle];~~
 - Часы [White Classic Havok Watch][watch];
 
 
