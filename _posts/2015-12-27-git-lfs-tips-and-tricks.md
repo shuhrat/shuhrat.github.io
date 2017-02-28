@@ -17,8 +17,9 @@ Add LFS client's configurations to your global `$HOME/.gitconfig`:
 
 ```bash
 git config --global filter.lfs.required true
-git config --global filter.lfs.clean "git-lfs clean %f"
-git config --global filter.lfs.smudge "git-lfs smudge %f"
+git config --global filter.lfs.clean "git-lfs clean -- %f"
+git config --global filter.lfs.smudge "git-lfs smudge -- %f"
+git config --global filter.lfs.process "git-lfs filter-process"
 ```
 
 You won't have to initialize LFS every time you clone a repository.
@@ -39,6 +40,7 @@ You can skip LFS's smudge filter and fetch LFS objects on demand. For that:
 
 ```bash
 git config --global filter.lfs.smudge "git-lfs smudge --skip %f"
+git config --global filter.lfs.process "git-lfs filter-process --skip"
 ```
  Run `git lfs env` and be sure that the smudge filter is skipped.
 
