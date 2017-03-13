@@ -37,7 +37,7 @@ title: Вишлист
 - [Йодо][yodo]
 - ~~[Матрёшка Z][matryoshka-z]~~
 - Хочу обновить свою старушку айМакушку (Mid 2010)
-  * [ram][8Gb DDR3 SDRAM 1333MHz; PC3-10600;] Unbuffered; Nonparity;
+  * [8Gb DDR3][ram] SDRAM 1333MHz; PC3-10600; Unbuffered; Nonparity;
   * Толстенький SSD на выбор
 
 ## Мужское
