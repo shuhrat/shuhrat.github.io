@@ -35,7 +35,7 @@ title: Вишлист
 - Футболка [Arctocat][arctocat]
 - [Октокотик][octocat] от Гитхаба
 - [Йодо][yodo]
-- [Матрёшка Z][matryoshka-z]
+- ~~[Матрёшка Z][matryoshka-z]~~
 
 ## Мужское
 - Складной нож Gerbergear [Paraframe-I][knife];
