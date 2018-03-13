@@ -23,7 +23,7 @@ title: Вишлист
 - ~~Часы Adidas [miCoach Smart Run][mi-coach];~~
 - ~~Bluetooth наушники для бега [Sony SBH80][sony];~~
 - ~~Бутылка для воды [KOR Delta Clear Water][kor-delta], 750 мл;~~
-- Браслет-шагомер [Fitbit Flex][fitbit];
+- ~~Браслет-шагомер [Fitbit Flex][fitbit];~~
 - Велик;
 
 
