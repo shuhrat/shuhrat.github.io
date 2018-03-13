@@ -39,6 +39,10 @@ title: Вишлист
 - ~~Хочу обновить свою старушку айМакушку (Mid 2010)~~
   * ~~[8Gb DDR3][ram] SDRAM 1333MHz; PC3-10600; Unbuffered; Nonparity;~~
   * ~~Толстенький SSD на выбор~~
+- Клавиатура [Microsoft Sculpt Ergonomic Desktop][sculpt-keyboard]
+- Клавиатура [Happy Hacking Professional 2][hhp-keyboard]
+- LEGO [Mindstorms EV3][lego-mindstorms-ev3]
+
 
 ## Мужское
 - Складной нож Gerbergear [Paraframe-I][knife];
@@ -68,3 +72,6 @@ title: Вишлист
 [yodo]: http://amperka.ru/product/yodo
 [matryoshka-z]: http://amperka.ru/product/matryoshka-z
 [ram]:https://market.yandex.ru/product/7795780
+[sculpt-keyboard]: https://www.microsoft.com/accessories/ru-ru/products/keyboards/sculpt-ergonomic-desktop/l5v-00017
+[lego-mindstorms-ev3]: https://lego.detmir.ru/product/index/id/164642/
+[hhp-keyboard]: https://www.amazon.com/Happy-Hacking-Keyboard-Professional2-PD-KB400B/dp/B000EXZ0VC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1520939782&sr=1-1&keywords=happy+hacking+keyboard
