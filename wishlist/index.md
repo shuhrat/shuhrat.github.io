@@ -49,7 +49,7 @@ title: Вишлист
 - Посадить дерево
 - Построить/Купить дом
 - Вырастить сына
-
+  * ~~Родить сына~~
 
 [wishlist]: http://www.wikiwand.com/ru/Вишлист
 [kindle]: https://market.yandex.ru/product/11134465
