@@ -36,9 +36,9 @@ title: Вишлист
 - [Октокотик][octocat] от Гитхаба
 - [Йодо][yodo]
 - ~~[Матрёшка Z][matryoshka-z]~~
-- Хочу обновить свою старушку айМакушку (Mid 2010)
-  * [8Gb DDR3][ram] SDRAM 1333MHz; PC3-10600; Unbuffered; Nonparity;
-  * Толстенький SSD на выбор
+- ~~Хочу обновить свою старушку айМакушку (Mid 2010)~~
+  * ~~[8Gb DDR3][ram] SDRAM 1333MHz; PC3-10600; Unbuffered; Nonparity;~~
+  * ~~Толстенький SSD на выбор~~
 
 ## Мужское
 - Складной нож Gerbergear [Paraframe-I][knife];
