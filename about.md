@@ -5,7 +5,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Shuhrat Shadmonkulov.
+Hi, I'm Shuhrat Shadmonov.
 
 Work as a web developer at [Yandex][yandex]. Currently live in Moscow, Russia.
 Interested in CS and in programming languages as well as natural languages.
