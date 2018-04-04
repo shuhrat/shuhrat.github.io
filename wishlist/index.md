@@ -32,34 +32,46 @@ title: Вишлист
 
 
 ## Гиковское
-- Футболка [Arctocat][arctocat]
-- [Октокотик][octocat] от Гитхаба
-- [Йодо][yodo]
-- ~~[Матрёшка Z][matryoshka-z]~~
+- Футболка [Arctocat][arctocat];
+- [Октокотик][octocat] от Гитхаба;
+- [Йодо][yodo];
+- ~~[Матрёшка Z][matryoshka-z];~~
 - ~~Хочу обновить свою старушку айМакушку (Mid 2010)~~
   * ~~[8Gb DDR3][ram] SDRAM 1333MHz; PC3-10600; Unbuffered; Nonparity;~~
   * ~~Толстенький SSD на выбор~~
-- Клавиатура [Microsoft Sculpt Ergonomic Desktop][sculpt-keyboard]
-- Клавиатура [Happy Hacking Professional 2][hhp-keyboard]
-- LEGO [Mindstorms EV3][lego-mindstorms-ev3]
+- ~~Клавиатура [Microsoft Sculpt Ergonomic Desktop][sculpt-keyboard];~~
+- Клавиатура [Happy Hacking Professional 2][hhp-keyboard];
 
 
 ## Мужское
+- Бритва [MUEHLE R89];
+- Квасцовый [камень][alunit];
+- [Полотенца][polotentse-muehle] для бритья;
+- ~~[Pre-shave][pre-shave-proraso] крем;~~
+- ~~[Мыло][soap-Proraso] для бритья;~~
+
+## Опасное
 - Складной нож Gerbergear [Paraframe-I][knife];
 - Складной нож Kershaw [Injection 3.5][knife2];
 
 
+## Детско-отцовское
+- Машинки от Hot Wheels;
+- LEGO;
+- LEGO [Mindstorms EV3][lego-mindstorms-ev3];
+
+
 ## Долгосрочное
-- Посадить дерево
-- Построить/Купить дом
+- Посадить дерево;
+- Построить/Купить дом;
 - Вырастить сына
-  * ~~Родить сына~~
+  * ~~Родить сына;~~
 
 [wishlist]: http://www.wikiwand.com/ru/Вишлист
 [kindle]: https://market.yandex.ru/product/11134465
 [fitbit]: http://market.yandex.ru/model.xml?modelid=10802171
 [sony]: http://market.yandex.ru/model.xml?modelid=10760046
-[watch]: http://www.elliothavok.com/shop/white-classic-havok-watch-pre-sale?category=Watches
+[watch]: https://www.elliothavok.com/collections/all/products/white-classic-havok-watch-40mm
 [bag]: http://www.re-store.ru/accessories/bags/ally-capellino/5060167430329/
 [moleskine]: http://www.moleskines-shop.ru/collection/Moleskine-Classic/product/Moleskine-Large-Ruled-Notebook
 [knife]: http://ru.gerbergear.com/Essentials/Knives/Paraframe-I-knife_22-48444
@@ -75,3 +87,12 @@ title: Вишлист
 [sculpt-keyboard]: https://www.microsoft.com/accessories/ru-ru/products/keyboards/sculpt-ergonomic-desktop/l5v-00017
 [lego-mindstorms-ev3]: https://lego.detmir.ru/product/index/id/164642/
 [hhp-keyboard]: https://www.amazon.com/Happy-Hacking-Keyboard-Professional2-PD-KB400B/dp/B000EXZ0VC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1520939782&sr=1-1&keywords=happy+hacking+keyboard
+[MUEHLE R89]: https://опаснаябритва.рф/product/t-obraznaya-britva-traditional-r89
+[alunit]: https://опаснаябритва.рф/product/kvastsovyy-kamen-alunit
+[polotentse-muehle]: https://опаснаябритва.рф/product/polotentse-vafelnoe-muehle
+[pre-shave-proraso]: https://опаснаябритва.рф/product/pre-shave-krem-proraso-2
+[soap-proraso]: https://опаснаябритва.рф/product/mylo-dlya-britya-proraso
+
+
+
+
