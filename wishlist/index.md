@@ -38,6 +38,7 @@ update: 12.03.2019
 - [Код]. Чарльз Петцольд;
 - [Mindstorms] Children, Computers, and Powerful Ideas. Seymour Papert;
 - [Алгоритмы для жизни]. Простые способы принимать верные решения. Брайан Кристиан, Том Гриффитс;
+- Посмотрите ещё https://github.com/shuhrat/books/issues
 
 
 ## Мужское
