@@ -38,7 +38,7 @@ update: 12.03.2019
 - [Код]. Чарльз Петцольд;
 - [Mindstorms] Children, Computers, and Powerful Ideas. Seymour Papert;
 - [Алгоритмы для жизни]. Простые способы принимать верные решения. Брайан Кристиан, Том Гриффитс;
-- Посмотрите ещё https://github.com/shuhrat/books/issues
+- Посмотрите ещё открытие issue в [shuhrat/books];
 
 
 ## Мужское
@@ -92,6 +92,8 @@ update: 12.03.2019
 [Код]: https://www.ozon.ru/context/detail/id/20141077/
 [Mindstorms]: https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746/
 [Алгоритмы для жизни]: https://www.ozon.ru/context/detail/id/141368824/
+[shuhrat/books]: https://github.com/shuhrat/books/issues
+
 
 [MUEHLE R89]: https://опаснаябритва.рф/product/t-obraznaya-britva-traditional-r89
 [alunit]: https://опаснаябритва.рф/product/kvastsovyy-kamen-alunit
