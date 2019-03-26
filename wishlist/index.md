@@ -14,7 +14,7 @@ update: 12.03.2019
 
 ## Повседневное
 - Часы [White Classic Havok Watch][watch];
-- Рюкзак, [Thule Lithos], 20L;
+- ~~Рюкзак, [Thule Lithos], 20L;~~
 
 ## ЗОЖное, мать его за ногу!
 - Велик;
