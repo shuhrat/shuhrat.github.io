@@ -35,16 +35,15 @@ update: 28.10.2019
 
 
 ## Полиграфическое
-- [Код]. Чарльз Петцольд;
+- ~~[Код]. Чарльз Петцольд;~~
 - [Mindstorms] Children, Computers, and Powerful Ideas. Seymour Papert;
-- [Алгоритмы для жизни]. Простые способы принимать верные решения. Брайан Кристиан, Том Гриффитс;
-- Посмотрите ещё открытие issue в [shuhrat/books];
+- ~~[Алгоритмы для жизни]. Простые способы принимать верные решения. Брайан Кристиан, Том Гриффитс;~~
 
 
 ## Мужское
 - ~~Бритва [MUEHLE R89];~~
-- ~~Квасцовый [камень][alunit]~~;
-- ~~[Полотенца][polotentse-muehle] для бритья~~;
+- ~~Квасцовый [камень][alunit];~~
+- ~~[Полотенца][polotentse-muehle] для бритья;~~
 Всегда актуально:
   - [Pre-shave][pre-shave-proraso] крем;
   - [Мыло][soap-Proraso] для бритья;
@@ -52,18 +51,18 @@ update: 28.10.2019
   - Сменные лезвия Astra/Derby;
 
 ## Опасное
-- Складной нож Gerbergear [Paraframe-I];
+- ~~Складной нож Gerbergear [Paraframe-I];~~
 - Складной нож Kershaw [Injection 3.5];
 
 
 ## Детско-отцовское
 - LEGO [Mindstorms EV3];
 - LEGO Duplo:
-	- [Рельсы][lego-duplo-railway];
-	- [Железнодорожный мост][lego-duplo-bridge];
+	- ~~[Рельсы][lego-duplo-railway];~~
+	- ~~[Железнодорожный мост][lego-duplo-bridge];~~
 - IKEA Лиллабу:
 	- Рельсы [раз][lillabu-50] и [два][lillabu-10];
-	- Железнодорожный мост[lillabu-bridge];
+	- [Железнодорожный мост][lillabu-bridge];
 
 ## Долгосрочное
 - Посадить дерево;
@@ -93,11 +92,9 @@ update: 28.10.2019
 [hhp-keyboard]: https://www.amazon.com/Happy-Hacking-Keyboard-Professional2-PD-KB400B/dp/B000EXZ0VC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1520939782&sr=1-1&keywords=happy+hacking+keyboard
 [varmilo-keyboard]: https://geekboards.ru/product/varmilo-vintage-days-va87m
 
-
 [Код]: https://www.ozon.ru/context/detail/id/20141077/
 [Mindstorms]: https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746/
 [Алгоритмы для жизни]: https://www.ozon.ru/context/detail/id/141368824/
-[shuhrat/books]: https://github.com/shuhrat/books/issues
 
 [MUEHLE R89]: https://опаснаябритва.рф/product/t-obraznaya-britva-traditional-r89
 [alunit]: https://опаснаябритва.рф/product/kvastsovyy-kamen-alunit
