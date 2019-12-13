@@ -29,8 +29,8 @@ update: 28.10.2019
 - Футболка [Arctocat];
 - [Октокотик] от Гитхаба;
 - [Йодо];
-- NFC наклейки;
 - Клавиатура [Happy Hacking Professional 2][hhp-keyboard];
+- Клавиатура [Varmilo Vintage Days VA87M][varmilo-keyboard] (Cherry MX Silent Red) c заводской русской раскладкой;
 - Годовую подписку на YouTube;
 
 
@@ -44,13 +44,12 @@ update: 28.10.2019
 ## Мужское
 - ~~Бритва [MUEHLE R89];~~
 - ~~Квасцовый [камень][alunit]~~;
-- [Полотенца][polotentse-muehle] для бритья;
-- Всегда актуально:
+- ~~[Полотенца][polotentse-muehle] для бритья~~;
+Всегда актуально:
   - [Pre-shave][pre-shave-proraso] крем;
   - [Мыло][soap-Proraso] для бритья;
   - [After-shave][after-shave-proraso];
-  - Сменные лезвия Rapira/Astra/Derby;
-
+  - Сменные лезвия Astra/Derby;
 
 ## Опасное
 - Складной нож Gerbergear [Paraframe-I];
@@ -58,14 +57,13 @@ update: 28.10.2019
 
 
 ## Детско-отцовское
-- Машинки Hot Wheels;
 - LEGO [Mindstorms EV3];
 - LEGO Duplo:
-  - Подойдёт всё, что для мальчиков до 3 лет;
-  - Есть:
-   - 10813, 10847, 10860, 10851, 10858, 10814;
-   - список постоянно пополняется;
-
+	- [Рельсы][lego-duplo-railway];
+	- [Железнодорожный мост][lego-duplo-bridge];
+- IKEA Лиллабу:
+	- Рельсы [раз][lillabu-50] и [два][lillabu-10];
+	- Железнодорожный мост[lillabu-bridge];
 
 ## Долгосрочное
 - Посадить дерево;
@@ -86,14 +84,20 @@ update: 28.10.2019
 [Йодо]: http://amperka.ru/product/yodo
 
 [Mindstorms EV3]: https://lego.detmir.ru/product/index/id/164642/
+[lego-duplo-bridge]: https://www.detmir.ru/product/index/id/3092801/
+[lego-duplo-railway]: https://www.detmir.ru/product/index/id/3092804/
+[lillabu-50]: https://www.ikea.com/ru/ru/p/lillabu-zheleznaya-doroga-50-predm-20362793/
+[lillabu-10]: https://www.ikea.com/ru/ru/p/lillabu-zheleznaya-doroga-90363727/
+[lillabu-bridge]: https://www.ikea.com/ru/ru/p/lillabu-zheleznodorozhnyy-most-5-predm-00362794/
 
 [hhp-keyboard]: https://www.amazon.com/Happy-Hacking-Keyboard-Professional2-PD-KB400B/dp/B000EXZ0VC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1520939782&sr=1-1&keywords=happy+hacking+keyboard
+[varmilo-keyboard]: https://geekboards.ru/product/varmilo-vintage-days-va87m
+
 
 [Код]: https://www.ozon.ru/context/detail/id/20141077/
 [Mindstorms]: https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746/
 [Алгоритмы для жизни]: https://www.ozon.ru/context/detail/id/141368824/
 [shuhrat/books]: https://github.com/shuhrat/books/issues
-
 
 [MUEHLE R89]: https://опаснаябритва.рф/product/t-obraznaya-britva-traditional-r89
 [alunit]: https://опаснаябритва.рф/product/kvastsovyy-kamen-alunit
@@ -101,6 +105,3 @@ update: 28.10.2019
 [pre-shave-proraso]: https://опаснаябритва.рф/product/pre-shave-krem-proraso-2
 [after-shave-proraso]: https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2
 [soap-proraso]: https://опаснаябритва.рф/product/mylo-dlya-britya-proraso-3
-
-
-
