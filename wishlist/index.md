@@ -31,6 +31,9 @@ update: 28.10.2019
 - [Йодо];
 - Клавиатура [Happy Hacking Professional 2][hhp-keyboard];
 - Клавиатура [Varmilo Vintage Days VA87M][varmilo-keyboard] (Cherry MX Silent Red) c заводской русской раскладкой;
+- Паяльная станция с феном;
+- Третья рука для пайки;
+- Мультиметр;
 - Годовую подписку на YouTube;
 
 
@@ -42,13 +45,14 @@ update: 28.10.2019
 
 ## Мужское
 - ~~Бритва [MUEHLE R89];~~
+- Бритва [Rockwell 6C];
 - ~~Квасцовый [камень][alunit];~~
 - ~~[Полотенца][polotentse-muehle] для бритья;~~
 Всегда актуально:
   - [Pre-shave][pre-shave-proraso] крем;
   - [Мыло][soap-Proraso] для бритья;
   - [After-shave][after-shave-proraso];
-  - Сменные лезвия Astra/Derby;
+  - Сменные лезвия Astra/Derby/Wilkinson;
 
 ## Опасное
 - ~~Складной нож Gerbergear [Paraframe-I];~~
@@ -97,6 +101,7 @@ update: 28.10.2019
 [Алгоритмы для жизни]: https://www.ozon.ru/context/detail/id/141368824/
 
 [MUEHLE R89]: https://опаснаябритва.рф/product/t-obraznaya-britva-traditional-r89
+[Rockwell 6C]: https://опаснаябритва.рф//product/t-obraznaya-britva-rockwell-6c-temnyy-hrom
 [alunit]: https://опаснаябритва.рф/product/kvastsovyy-kamen-alunit
 [polotentse-muehle]: https://опаснаябритва.рф/product/polotentse-vafelnoe-muehle
 [pre-shave-proraso]: https://опаснаябритва.рф/product/pre-shave-krem-proraso-2
