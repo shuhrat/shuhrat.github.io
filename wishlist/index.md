@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Вишлист
-update: 28.10.2019
+update: 18.02.2020
 ---
 
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
@@ -30,7 +30,7 @@ update: 28.10.2019
 - [Октокотик] от Гитхаба;
 - [Йодо];
 - Клавиатура [Happy Hacking Professional 2][hhp-keyboard];
-- Клавиатура [Varmilo Vintage Days VA87M][varmilo-keyboard] (Cherry MX Silent Red) c заводской русской раскладкой;
+- ~~Клавиатура [Varmilo Vintage Days VA87M][varmilo-keyboard] (Cherry MX Silent Red) c заводской русской раскладкой;~~
 - Паяльная станция с феном;
 - Третья рука для пайки;
 - Мультиметр;
