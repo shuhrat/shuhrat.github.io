@@ -12,9 +12,9 @@ update: 18.02.2020
 
 -------
 
-## Повседневное
-- Часы [White Classic Havok Watch][watch];
-- ~~Рюкзак, [Thule Lithos], 20L;~~
+
+## Денежное
+- [Перевести](https://www.tinkoff.ru/sl/4QMiel1YMxe) мне денег с любой карты;
 
 ## ЗОЖное, мать его за ногу!
 - Велик;
