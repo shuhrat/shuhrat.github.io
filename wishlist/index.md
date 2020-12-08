@@ -16,6 +16,13 @@ update: 18.02.2020
 ## Денежное
 - [Перевести](https://www.tinkoff.ru/sl/4QMiel1YMxe) мне денег с любой карты;
 
+
+## Повседневное
+- Столы с регулируемой высотой [Shapdesk](https://shapdesk.com/)
+- Кресло Herman Miller [Aeron New](https://cishop.ru/catalog/aeron/)
+- Кресло [POÄNG ПОЭНГ](https://www.ikea.com/ru/ru/p/poaeng-poeng-kreslo-cherno-korichnevyy-shiftebu-temno-siniy-s59302802/)
+
+
 ## ЗОЖное, мать его за ногу!
 - Велик;
 
@@ -64,6 +71,7 @@ update: 18.02.2020
 - LEGO Duplo:
 	- ~~[Рельсы][lego-duplo-railway];~~
 	- ~~[Железнодорожный мост][lego-duplo-bridge];~~
+	- [Грузовой поезд](https://mir-kubikov.ru/lego/10875/)
 - IKEA Лиллабу:
 	- Рельсы [раз][lillabu-50] и [два][lillabu-10];
 	- [Железнодорожный мост][lillabu-bridge];
