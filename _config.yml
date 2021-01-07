@@ -23,7 +23,7 @@ highlighter: rouge
 encoding: UTF-8
 
 # Outputting
-paginate: 6
+paginate: 10
 permalink: "/:categories/:title.html"
 paginate_path: "/page/:num"
 
