@@ -18,9 +18,9 @@ update: 18.02.2020
 
 
 ## Повседневное
-- Столы с регулируемой высотой [Shapdesk](https://shapdesk.com/)
-- Кресло Herman Miller [Aeron New](https://cishop.ru/catalog/aeron/)
-- Кресло [POÄNG ПОЭНГ](https://www.ikea.com/ru/ru/p/poaeng-poeng-kreslo-cherno-korichnevyy-shiftebu-temno-siniy-s59302802/)
+- Столы с регулируемой высотой [Shapdesk](https://shapdesk.com/);
+- Кресло Herman Miller [Aeron New](https://cishop.ru/catalog/aeron/);
+- ~~Кресло [POÄNG ПОЭНГ](https://www.ikea.com/ru/ru/p/poaeng-poeng-kreslo-cherno-korichnevyy-shiftebu-temno-siniy-s59302802/);~~
 
 
 ## ЗОЖное, мать его за ногу!
@@ -42,6 +42,7 @@ update: 18.02.2020
 - Третья рука для пайки;
 - Мультиметр;
 - Годовую подписку на YouTube;
+- Магнитная держалка для ключей [Arktype];
 
 
 ## Полиграфическое
@@ -115,3 +116,4 @@ update: 18.02.2020
 [pre-shave-proraso]: https://опаснаябритва.рф/product/pre-shave-krem-proraso-2
 [after-shave-proraso]: https://опаснаябритва.рф/product/balzam-posle-britya-proraso-2
 [soap-proraso]: https://опаснаябритва.рф/product/mylo-dlya-britya-proraso-3
+[Arktype]: https://www.arktypedesign.com/collections/all/products/rmk-keychain-and-badgeholder-black
